@@ -1,3 +1,5 @@
+# Backwards (COMP 2000 - Data Structures)
+
 What it can do:
 - Create an Array and perform functions as a datatype doubly-linked list
 - Runs through a driver program testing all the doubly-linked list functions
